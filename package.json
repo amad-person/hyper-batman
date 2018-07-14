@@ -1,0 +1,25 @@
+{
+  "name": "hyper-batman",
+  "version": "1.0.0",
+  "description": "A Hyper theme the World's Greatest Detective would approve.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amad-person/hyper-batman.git"
+  },
+  "keywords": [
+    "hyper",
+    "terminal",
+    "theme",
+    "batman"
+  ],
+  "author": "Aadyaa Maddi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amad-person/hyper-batman/issues"
+  },
+  "homepage": "https://github.com/amad-person/hyper-batman#readme"
+}
